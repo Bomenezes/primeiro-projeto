@@ -13,3 +13,5 @@ Fazendo um novo teste de atualização do git.
 Vamos fazer uma nova alteração no github para testar o comando git pull.
 
 Realizando mais um teste.
+
+O projeto demorou algumas semanas, mas saiu (teste).
