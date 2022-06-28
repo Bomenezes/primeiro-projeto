@@ -9,3 +9,5 @@ https://www.alura.com.br
 ```
 
 Fazendo um novo teste de atualização do git.
+
+Vamos fazer uma nova alteração no github para testar o comando git pull.
