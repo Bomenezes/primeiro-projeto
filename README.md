@@ -7,3 +7,5 @@ Este exercício foi desenvolvido durante o curso de Iniciante em Programação d
 ```
 https://www.alura.com.br
 ```
+
+Fazendo um novo teste de atualização do git.
